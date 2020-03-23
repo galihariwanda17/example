@@ -1,3 +1,5 @@
+Check demo: [Link demo](http://galihariwanda17.github.io/example) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
